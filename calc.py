@@ -4,6 +4,9 @@ import sys
 def andresFunct():
     print "blah blah blah"
 
+def dif_all(nums):
+    return dif(lambda a, b: a - b, nums)
+	
 def add_all(nums):
     return sum(nums)
 
