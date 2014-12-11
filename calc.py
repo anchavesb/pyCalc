@@ -1,3 +1,5 @@
+"""calc.py: A simple python calculator."""
+
 import sys
 
 if __name__ == '__main__':
