@@ -1,6 +1,9 @@
 """calc.py: A simple Python calculator."""
 import sys
 
+def andresFunct():
+    print "blah blah blah"
+
 def add_all(nums):
     return sum(nums)
 
